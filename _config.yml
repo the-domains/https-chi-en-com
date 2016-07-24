@@ -1,0 +1,14 @@
+layout_spectrum: 0.9492481
+typography_spectrum: 0.9817767
+color:
+  saturation: 0.2674322
+  brandStrength: 0.8171105
+  lightness: 0.8471178
+  rhythmicContrast: 0.8899388
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: 'https://chi-en.com'
